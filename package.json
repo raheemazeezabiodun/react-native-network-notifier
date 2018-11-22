@@ -1,6 +1,6 @@
 {
   "name": "react-native-network-notifier",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A react native component for showing network state",
   "main": "index.js",
   "scripts": {
@@ -12,5 +12,5 @@
   },
   "keywords": ["react-native", "network"],
   "author": "Raheem Azeez Abiodun <raheemazeez4@gmail.com>",
-  "license": "ISC"
+  "license": "MIT"
 }
