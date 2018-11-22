@@ -4,10 +4,10 @@ import { SCREEN_WIDTH, COLOR_ONLINE, COLR_OFFLINE, COLOR_WHITE } from './config'
 
 const styles = StyleSheet.create({
     topPosition: {
-        top: 30
+        top: 5
     },
     bottomPosition: {
-        bottom: 30
+        bottom: 5
     },
     networkContainer: {
         height: 30,
@@ -15,8 +15,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         flexDirection: 'row',
         width: SCREEN_WIDTH,
-        position: 'absolute',
-        top: 30
+        position: 'absolute'
     },
     networkText: {
         color: COLOR_WHITE
