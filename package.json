@@ -1,0 +1,12 @@
+{
+  "name": "react-native-network-notifier",
+  "version": "1.0.0",
+  "description": "A react native component for showing network state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react-native", "network"],
+  "author": "Raheem Azeez Abiodun <raheemazeez4@gmail.com>",
+  "license": "ISC"
+}
